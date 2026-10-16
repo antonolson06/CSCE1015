@@ -2,5 +2,5 @@
 Assignment repository for UNT CSCE1015
 ## alo0103
 
-## Yashu V
-$Yashu V
+## Professor
+Yashu V
